@@ -378,3 +378,7 @@ article .nino-articleMeta .nino-icon {
 @media (max-width: 480px) {
 	
 }
+
+.quote {
+	padding-bottom: 40px;
+}
